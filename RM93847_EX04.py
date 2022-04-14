@@ -6,4 +6,4 @@ while x <= minutos:
   fatorial = fatorial*x
   x = x + 1
 
-print("LIBERDADA" + str(fatorial))
+print("LIBERDADE" + str(fatorial))
